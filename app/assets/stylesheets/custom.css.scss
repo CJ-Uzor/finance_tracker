@@ -3,3 +3,25 @@
 /* .navbar-brand{
     font-size: 3rem;
 } */
+
+* {
+    -webkit-border-radius: 0 !important;
+       -moz-border-radius: 0 !important;
+            border-radius: 0 !important;
+  }
+
+  .search-area{
+      padding-top: 50px;
+  }
+
+  .no-right-padding{
+    padding-right: 0 !important;
+  }
+
+  .no-left-padding{
+    padding-left: 0 !important;
+  }
+
+  .results-block{
+    display: inline-block;
+  }
